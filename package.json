@@ -1,0 +1,7 @@
+{
+    "name": "shichiEditor",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "echo 'Hello! shichiEditor from package.json'"
+    }
+  }
